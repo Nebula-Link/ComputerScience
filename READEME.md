@@ -1,0 +1,1 @@
+需要使用[obsidian](https://obsidian.md/)打开项目，后期会使用到类似双向链接的功能。
